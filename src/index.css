@@ -15,9 +15,9 @@
   --expense-soft: #F1DCD3;
   --focus: #ffbb00;
 
-  --font-display: "Fraunces", Georgia, serif;
-  --font-body: "Inter", -apple-system, sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --font-display: "Brush Script MT", Georgia, serif;
+  --font-body: "Verdana", -apple-system, sans-serif;
+  --font-mono: "times new roman", ui-monospace, monospace;
 
   --radius: 3px;
 }
